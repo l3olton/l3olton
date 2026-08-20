@@ -1,2 +1,2 @@
 [![Top Langs](./profile/top-langs.svg)](https://github.com/l3olton)
-[![Github stats](./profile/stats.svg)](https://github.com/l3olton)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=l3olton&hide_rank=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=github_dark&hide_border=true)](https://github-stats-extended.vercel.app/api?username=l3olton&hide_rank=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=tokyonight)
