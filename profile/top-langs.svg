@@ -148,7 +148,7 @@
           data-testid="lang-progress"
           x="71.81"
           y="0"
-          width="71.18"
+          width="71.19"
           height="8"
           fill="#b07219"
         />
@@ -156,7 +156,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="142.99"
+          x="143"
           y="0"
           width="41.82"
           height="8"
@@ -166,9 +166,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="184.81"
+          x="184.82"
           y="0"
-          width="33.87"
+          width="33.86"
           height="8"
           fill="#C40023"
         />
@@ -178,7 +178,7 @@
           data-testid="lang-progress"
           x="218.68"
           y="0"
-          width="21.1"
+          width="21.11"
           height="8"
           fill="#f1e05a"
         />
@@ -186,7 +186,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="239.78"
+          x="239.79000000000002"
           y="0"
           width="10.22"
           height="8"
@@ -199,7 +199,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 28.72%
+        TypeScript 28.73%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
@@ -220,7 +220,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#C40023" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TL-Verilog 13.55%
+        TL-Verilog 13.54%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
